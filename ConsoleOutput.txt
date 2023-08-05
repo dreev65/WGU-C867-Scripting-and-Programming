@@ -1,0 +1,49 @@
+Scripting and Programming - Applications C867
+C++
+#001990892
+Daniel Reeve
+
+Printing Roster:
+A1      John    Smith   20              Days in course: {30, 35, 40}    Degree Program: SECURITY
+A2      Suzan   Erickson        19              Days in course: {50, 30, 40}    Degree Program: NETWORK
+A3      Jack    Napoli  19              Days in course: {20, 40, 33}    Degree Program: SOFTWARE
+A4      Erin    Black   22              Days in course: {50, 58, 40}    Degree Program: SECURITY
+A5      Daniel  Reeve   22              Days in course: {35, 25, 45}    Degree Program: SOFTWARE
+
+
+Invalid email entries:
+John1989@gm ail.com
+Erickson_1990@gmailcom
+The_lawyer99yahoo.com
+
+
+Average days left in course:
+Average number of days left in class for A1 is 35
+Average number of days left in class for A2 is 40
+Average number of days left in class for A3 is 31
+Average number of days left in class for A4 is 49
+Average number of days left in class for A5 is 35
+
+
+Printing by degree SOFTWARE
+A3      Jack    Napoli  19              Days in course: {20, 40, 33}    Degree Program: SOFTWARE
+A5      Daniel  Reeve   22              Days in course: {35, 25, 45}    Degree Program: SOFTWARE
+
+
+Remove student A3:
+
+
+Printing Roster:
+A1      John    Smith   20              Days in course: {30, 35, 40}    Degree Program: SECURITY
+A2      Suzan   Erickson        19              Days in course: {50, 30, 40}    Degree Program: NETWORK
+A5      Daniel  Reeve   22              Days in course: {35, 25, 45}    Degree Program: SOFTWARE
+A4      Erin    Black   22              Days in course: {50, 58, 40}    Degree Program: SECURITYAverage number of days left in class for A1 is 35
+Average number of days left in class for A2 is 40
+Average number of days left in class for A3 is 31
+Average number of days left in class for A4 is 49
+Average number of days left in class for A5 is 35
+
+
+Printing by degree SOFTWARE
+A3      Jack    Napoli  19              Days in course: {20, 40, 33}    Degree Program: SOFTWARE
+A5      Daniel  Reeve   22              Days in course: {35, 25, 45}    Degree Program: SOFTWARE
